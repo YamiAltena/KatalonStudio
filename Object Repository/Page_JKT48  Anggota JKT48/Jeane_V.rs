@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Jeane_V</name>
+   <tag></tag>
+   <elementGuidId>47e43c47-d87d-4d0b-8830-1dad02d6b8c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='GreesellaAdhalia'])[1]/following::a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3323a3b3-e508-4cd4-9abc-0504112e1998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/member/detail/id/272?lang=id</value>
+      <webElementGuid>f9516d11-7fd1-43e3-8f7a-b2b9d9a66a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JeaneVictoria</value>
+      <webElementGuid>3b13ce1b-a713-4c6b-985e-ea4449d6076f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 order-1 order-lg-2 entry-contents__main-area&quot;]/div[@class=&quot;row row-all-10&quot;]/div[@class=&quot;col-4 col-lg-2&quot;]/div[@class=&quot;entry-member&quot;]/p[@class=&quot;entry-member__name&quot;]/a[1]</value>
+      <webElementGuid>92192001-1d52-492c-ae60-50dfed41e907</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GreesellaAdhalia'])[1]/following::a[2]</value>
+      <webElementGuid>55d863ad-4699-410c-8b06-675e1f3b8622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GraceOctaviani'])[1]/following::a[4]</value>
+      <webElementGuid>ab30a34e-8784-44dd-9a60-3bbc2f833fe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MichelleAlexandra'])[1]/preceding::a[2]</value>
+      <webElementGuid>7e4b7a8c-8b14-438b-a042-731024fdf6e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Fan Letter dan Hadiah >'])[1]/preceding::a[3]</value>
+      <webElementGuid>a8107df4-b7de-405d-96eb-60198deff8ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jeane']/parent::*</value>
+      <webElementGuid>ab6ed32d-027d-4b36-ad8c-9f1c976327ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/member/detail/id/272?lang=id')])[2]</value>
+      <webElementGuid>61fe6be1-9b90-459b-bc19-b8fb0e7795d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[12]/div/p/a</value>
+      <webElementGuid>1dd57eb1-b8c3-426f-9749-5ef8906c4a52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/member/detail/id/272?lang=id' and (text() = 'JeaneVictoria' or . = 'JeaneVictoria')]</value>
+      <webElementGuid>4a49d291-b677-4b15-a121-6b35d5888bfe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

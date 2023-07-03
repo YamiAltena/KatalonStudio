@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Ashel</name>
+   <tag></tag>
+   <elementGuidId>cede47c0-e4fa-452e-ab58-3d5a33a94b37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Anggota JKT48'])[2]/following::a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.entry-member__name > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dc7fe194-76bf-43ec-abee-598b4fbcf28a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/member/detail/id/237?lang=id</value>
+      <webElementGuid>24ebbf3d-6286-4398-9a9e-58c33b4ee3c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AdzanaShaliha</value>
+      <webElementGuid>05f983e7-6b20-44fc-b5d7-c5816b599911</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 order-1 order-lg-2 entry-contents__main-area&quot;]/div[@class=&quot;row row-all-10&quot;]/div[@class=&quot;col-4 col-lg-2&quot;]/div[@class=&quot;entry-member&quot;]/p[@class=&quot;entry-member__name&quot;]/a[1]</value>
+      <webElementGuid>a044dfad-b2d3-4dc2-99ce-89c2a61b3ea9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anggota JKT48'])[2]/following::a[2]</value>
+      <webElementGuid>3d34d820-8c2f-4e9e-8524-0db3ba5233e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anggota JKT48'])[1]/following::a[2]</value>
+      <webElementGuid>ab848ec8-1b9a-45e3-85ed-87f1ad066cac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AmandaSukma'])[1]/preceding::a[2]</value>
+      <webElementGuid>cea1e438-0b31-4bf4-84c0-74cc8bab0d18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AngelinaChristy'])[1]/preceding::a[4]</value>
+      <webElementGuid>2922a235-9316-404e-a06c-8f0824dc1dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Adzana']/parent::*</value>
+      <webElementGuid>fd561655-cf06-46ec-9adc-ca5715af7284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/member/detail/id/237?lang=id')])[2]</value>
+      <webElementGuid>bba8080f-52aa-40fe-b6ed-863bb15c519d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/p/a</value>
+      <webElementGuid>59b78f18-393a-4728-9102-ef8f7a46eec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/member/detail/id/237?lang=id' and (text() = 'AdzanaShaliha' or . = 'AdzanaShaliha')]</value>
+      <webElementGuid>40f8fdd0-fb38-4d99-9326-93a075b8efe6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

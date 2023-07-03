@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Click me_diff2</name>
+   <tag></tag>
+   <elementGuidId>0c9d21a6-7a48-4452-895c-a5c7cf517529</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.diff2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e434093c-80c9-4cd8-a853-904d711b7885</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>diff2</value>
+      <webElementGuid>15a6f403-de71-42d6-a05c-8a95a06fb251</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/helloworld-assets/images/image_2.jpg</value>
+      <webElementGuid>b01dc066-13b0-4d72-882d-794fb9969452</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;demo-page center diff2&quot;]/div[@class=&quot;section image-section&quot;]/img[@class=&quot;diff2&quot;]</value>
+      <webElementGuid>0e58075c-bf11-452e-b11a-60f84b43badf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img[3]</value>
+      <webElementGuid>b34dae19-78a9-4600-abb7-52e4851da504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/helloworld-assets/images/image_2.jpg']</value>
+      <webElementGuid>99c46448-5b3e-4d27-9e91-44717981b3d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

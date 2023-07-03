@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AllActivatedDeactivated</name>
+   <tag></tag>
+   <elementGuidId>cd0cb557-92b3-4dfa-bab0-3906e0b52746</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ActivatedId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ActivatedId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8185c3e3-9fed-41a6-8c02-ee0ab40e726f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>6d65250a-d192-4f9b-b344-b0912608c671</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3907fbbd-7c5d-4a68-9d15-1902a1cb147c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>The Activated field is required.</value>
+      <webElementGuid>fc76c80c-299a-4b24-b8c9-d782abea8f8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ActivatedId</value>
+      <webElementGuid>daa28c6e-eb61-4344-9bd0-55f7bfd6881b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ActivatedId</value>
+      <webElementGuid>99ebc6df-d568-4afd-9ea4-553885c00ef1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All
+Activated
+Deactivated
+</value>
+      <webElementGuid>4a925c39-88ed-445b-81dd-68c844c9ceb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ActivatedId&quot;)</value>
+      <webElementGuid>6db4252e-fb40-4418-9037-77d6717adab9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ActivatedId']</value>
+      <webElementGuid>0619ffec-1eb4-4994-9f74-edc90c367a3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activated'])[1]/following::select[1]</value>
+      <webElementGuid>a56d4a09-619c-4ac5-8fc4-8e5bfaf948cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recipient name'])[1]/following::select[1]</value>
+      <webElementGuid>bc687ffe-730b-4f64-b4c2-be391f789e33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gift card coupon code'])[1]/preceding::select[1]</value>
+      <webElementGuid>8ac3bc41-c27c-4075-a5d5-29c5370e4013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>ce150fca-f4be-40be-aef2-069b903c9ea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ActivatedId' and @name = 'ActivatedId' and (text() = 'All
+Activated
+Deactivated
+' or . = 'All
+Activated
+Deactivated
+')]</value>
+      <webElementGuid>7865137d-b9b9-46a1-874a-e346d202dd55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
